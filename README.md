@@ -4,3 +4,7 @@ Trabalho de implementação de um pseudo-SO em Python para a matéria de Sistema
 Professora Aletéia Patrícia Favacho de Araújo
 
 ## Instruções de Execução
+
+```
+python3 main.py testes/processes.txt testes/files.txt
+```
